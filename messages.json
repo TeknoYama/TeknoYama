@@ -1,0 +1,14 @@
+{
+    "türkçe": {
+        "mesajlari-yonet": "Bu Komutu Kullanabilmek için `Mesajları Yönet` Yetkisine Sahip olmalısın.",
+        "rolleri-yonet": "Bu Komutu Kullanabilmek için `Rolleri Yönet` Yetkisine Sahip olmalısın.",
+        "kanallari-yonet": "Bu Komutu Kullanabilmek için `Kanalları Yönet` Yetkisine Sahip olmalısın.",
+        "administrator": "Bu Komutu Kullanabilmek için `Yönetici` Yetkisine Sahip olmalısın."
+    },
+    "ingilizce": {
+        "manage-messages": "To Use This Command, You Must Have `Manage Messages` Authority.",
+        "manage-roles": "To Use This Command, You Must Have `Manage Roles` Authority.",
+        "manage-channels": "To Use This Command, You Must Have `Manage Channels` Authority.",
+        "administrator": "To Use This Command, You Must Have `Administrator` Authority."
+    }
+}

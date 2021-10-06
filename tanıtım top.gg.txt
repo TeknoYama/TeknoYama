@@ -1,0 +1,132 @@
+Electus <Sayfa> Sayfasına Hoşgeldin! Sunucuna Eklemeyi Unutma :)
+
+Komutlar
+
+</p><div class="table-responsive">
+                    <table class="table color-bordered-table red-bordered-table">
+                        <thead>
+                            <tr style="background-color: #00FF00;">
+                                <th>Komut</th>
+                                <th>Açıklama</th>
+                                <th>Kullanım</th>
+                            </tr>
+                        </thead>
+                    	<tbody>
+<tr>
+                        <td>
+                            Yardım
+                        </td>
+                        <td>
+                            Bot komutlarını listeler.
+                        </td>
+                        <td>
+                           e!yardım
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Sil
+                        </td>
+                        <td>
+                            Belirlenen Sayı kadar Mesaj siler
+                        </td>
+                        <td>
+                           e!sil
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Giriş Çıkış</td>
+                        <td>
+                            Giriş Çıkış Sistemini Açar Kapar
+                        </td>
+                        <td>
+                           e!giriş-çıkış</td>
+                    </tr>
+                           <tr>
+                        <td>Sayaç</td>
+                        <td>
+                            Sayaç Komutlarını Gösterir
+                        </td>
+                        <td>
+                           e!sayaç</td>
+                    </tr>
+                    <tr>
+                        <td>Otorol</td>
+                        <td>
+                          Otorol Komutlarını Gösterir
+                        </td>
+                        <td>
+                            e!otorol 
+                        </td>
+                    </tr>
+                     <tr>
+                        <td>sa-as</td>
+                        <td>
+                          Sunucunuzda Birisi Sa yazdığında Aleyküm Selam Hoşgeldin der
+                        </td>
+                        <td>
+                            e!sa-as
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Kanal Silme Koruması</td>
+                        <td>
+                          Kanal Silme Korumasını Açar Kapar
+                        </td>
+                        <td>
+                            e!kanal-silme-koruma
+                        </td>
+                    </tr>
+					<tr>
+                        <td>Davet Sistem</td>
+                        <td>
+                          Davet Sistemi Komutlarını Gösterir
+                        </td>
+                        <td>
+                            e!davet 
+                        </td>
+                    </tr>
+                     <tr>
+                        <td>Davet </td>
+                        <td>
+                         Botu Sunucunuza Davet Edersiniz
+                        </td>
+                        <td>
+                            e!link 
+                        </td>
+                    </tr>
+                     <tr>
+                        <td>Seviye</td>
+                        <td>
+                         Seviye Komutlarını Gösterir
+                        </td>
+                        <td>
+                            e!seviye 
+                        </td>
+                    </tr>     
+                  	<tr>
+                        <td>Küfür Engelleme</td>
+                        <td>
+                           Küfür Korumasını Açar Kapar
+                        </td>
+                        <td>
+                            e!küfür
+                        </td>
+                    </tr>
+		        <tr>
+                        <td>Çekiliş Sistemi</td>
+                        <td>
+                           Çekiliş Sistemi 
+                        </td>
+                        <td>
+                            e!çekiliş,e!reroll,e!end
+                        </td>
+                    </tr>
+			  
+                            
+   
+<style>
+
+Bot Gelişme Aşamasındadır Sevgilerimizle Electus Team.
+
+Slogan: Sizin için Herşey
